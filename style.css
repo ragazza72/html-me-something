@@ -16,6 +16,11 @@ p.thing {
 }
 
 #other_thing {
-    color: red
+    color: redn
 
+}
+
+#instrument {
+    width: 1050px;
+    height: 450px;
 }
